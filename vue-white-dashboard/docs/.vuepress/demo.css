@@ -1,0 +1,11 @@
+.nav-item > a:not(.external):hover, .nav-item > a:not(.external).router-link-active {
+  margin-bottom: -2px;
+  border-bottom: none !important;
+}
+a.sidebar-link.active {
+  color: #ba54f5 !important;
+  border-left-color: #ba54f5 !important;
+}
+a.sidebar-link:hover {
+  color: #ba54f5 !important;
+}
