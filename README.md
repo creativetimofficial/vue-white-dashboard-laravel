@@ -4,7 +4,7 @@
 
 *Vue version*: Vue White Dashboard v1.0.1. More info at https://www.creative-tim.com/product/vue-white-dashboard
 
-![Product Image](https://github.com/creativetimofficial/public-assets/raw/master/vue-white-dashboard-laravel/vue-white-dashboard-laravel.gif?raw=true)
+![Product Image](https://s3.amazonaws.com/creativetim_bucket/products/408/original/opt_wd_vuelaravel_thumbnail.jpg)
 
 What if your frontend came not only with reusable components, but also with a reusable backend? API-driven development is more than just a buzzword and we partnered with [UPDIVISION](https://updivision.com) to prove it. Build awesome-looking apps with a flexible architecture across a variety of devices and operating systems with Vue White Dashboard Laravel. 
 
