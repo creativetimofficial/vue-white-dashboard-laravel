@@ -8,6 +8,8 @@
 
 What if your frontend came not only with reusable components, but also with a reusable backend? API-driven development is more than just a buzzword and we partnered with [UPDIVISION](https://updivision.com) to prove it. Build awesome-looking apps with a flexible architecture across a variety of devices and operating systems with Vue White Dashboard Laravel. 
 
+If you want to get more features, go PRO with [White Dashboard PRO Laravel](https://www.creative-tim.com/product/vue-white-dashboard-pro-laravel).
+
 # Download
 
 For the free version of the project you can either
